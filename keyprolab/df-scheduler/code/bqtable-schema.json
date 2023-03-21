@@ -1,0 +1,12 @@
+[
+    {
+        "name": "user",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "age",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    }
+]
